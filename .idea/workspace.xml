@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0413414f-f341-443a-a2c3-cbce08857f69" name="Default Changelist" comment="" />
+    <list default="true" id="0413414f-f341-443a-a2c3-cbce08857f69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +13,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DET_REG_NET.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="410">
+              <caret line="835" column="51" selection-start-line="835" selection-start-column="51" selection-end-line="835" selection-end-column="51" />
+              <folding>
+                <element signature="e#545#3192#0" />
+                <element signature="e#3226#4345#0" />
+                <element signature="e#4378#4899#0" />
+                <element signature="e#4936#7271#0" />
+                <element signature="e#7311#9451#0" />
+                <element signature="e#9491#15840#0" />
+                <element signature="e#15862#16059#0" />
+                <element signature="e#15961#16043#0" />
+                <element signature="e#16090#16185#0" />
+                <element signature="e#16223#16526#0" />
+                <element signature="e#16396#16482#0" />
+                <element signature="e#16576#17261#0" />
+                <element signature="e#17308#18289#0" />
+                <element signature="e#18340#18645#0" />
+                <element signature="e#18743#20749#0" />
+                <element signature="e#20802#21479#0" />
+                <element signature="e#21524#22657#0" />
+                <element signature="e#22693#24625#0" />
+                <element signature="e#24702#26792#0" />
+                <element signature="e#26836#29358#0" />
+                <element signature="e#29415#29531#0" />
+                <element signature="e#29562#30973#0" />
+                <element signature="e#31020#31614#0" />
+                <element signature="e#31678#31790#0" />
+                <element signature="e#31827#34373#0" />
+                <element signature="e#34430#35502#0" />
+                <element signature="e#35552#36362#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -52,6 +93,7 @@
       <find>FloatTensor</find>
       <find>SCNN</find>
       <find>puzzle_WSI</find>
+      <find>crop</find>
     </findStrings>
     <replaceStrings>
       <replace>DET_REG_NET</replace>
@@ -107,6 +149,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/checkpoints" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -224,12 +267,12 @@
       <option name="presentableId" value="Default" />
       <updated>1569482615706</updated>
       <workItem from="1569482617147" duration="118784000" />
-      <workItem from="1570758097642" duration="43938000" />
+      <workItem from="1570758097642" duration="45976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162722000" />
+    <option name="totallyTimeSpent" value="164760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -769,17 +812,54 @@ plt.show()</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="5" selection-start-line="2" selection-end-line="2" selection-end-column="5" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DET_REG_NET.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        <state relative-caret-position="410">
+          <caret line="835" column="51" selection-start-line="835" selection-start-column="51" selection-end-line="835" selection-end-column="51" />
+          <folding>
+            <element signature="e#545#3192#0" />
+            <element signature="e#3226#4345#0" />
+            <element signature="e#4378#4899#0" />
+            <element signature="e#4936#7271#0" />
+            <element signature="e#7311#9451#0" />
+            <element signature="e#9491#15840#0" />
+            <element signature="e#15862#16059#0" />
+            <element signature="e#15961#16043#0" />
+            <element signature="e#16090#16185#0" />
+            <element signature="e#16223#16526#0" />
+            <element signature="e#16396#16482#0" />
+            <element signature="e#16576#17261#0" />
+            <element signature="e#17308#18289#0" />
+            <element signature="e#18340#18645#0" />
+            <element signature="e#18743#20749#0" />
+            <element signature="e#20802#21479#0" />
+            <element signature="e#21524#22657#0" />
+            <element signature="e#22693#24625#0" />
+            <element signature="e#24702#26792#0" />
+            <element signature="e#26836#29358#0" />
+            <element signature="e#29415#29531#0" />
+            <element signature="e#29562#30973#0" />
+            <element signature="e#31020#31614#0" />
+            <element signature="e#31678#31790#0" />
+            <element signature="e#31827#34373#0" />
+            <element signature="e#34430#35502#0" />
+            <element signature="e#35552#36362#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
         </state>
       </provider>
     </entry>
