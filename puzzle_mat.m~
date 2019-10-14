@@ -1,0 +1,10 @@
+close all; clear; clc;
+
+path = './predict/UNet_VGG16_WSI/mat/';
+data_list = dir([path '*.mat']);
+
+for i = 1:length(data_list)
+    
+    
+    
+end

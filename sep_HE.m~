@@ -1,0 +1,11 @@
+close all; clear; clc;
+
+base_path = './data/CRC/Detection/';
+list = dir([base_path 'img*']);
+
+for i = 1:length(list)
+    img = imread([base_path list(i).name '/' list(i).name '.bmp']);
+    [~, H, E, ~, ~] = Deconvolve(img);
+    imwrite(H, [base_path list(i).name])
+    
+end
