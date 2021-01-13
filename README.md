@@ -2,7 +2,7 @@
 This is the code for nuclear detection and classification on digitalized H&E whole slide images.
 
 ## How to use? 
-Just open the file __DET_REG_NET.py__ and it contains many functions/modules and modules that you may want.
+Just open the file __DET_REG_NET.py__ and it contains many functions/modules that you may want.
 
 ## What we do?
 We initialize this project from [paper](https://www.tandfonline.com/doi/pdf/10.1080/21681163.2016.1149104?needAccess=true), and the DET_REG_NET 
